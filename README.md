@@ -1,6 +1,6 @@
 
 
-##🤖ML- Realtime movie recomendation system
+## 🤖 ML- Realtime movie recomendation system
 
 #Objective
 
@@ -65,27 +65,25 @@ This project aims to develop a real-time movie recommendation system that can ad
 Python: Programming language used for the backend logic. 
 
 
-##📝Documentation
-
--
-
-##👍🏼Feedback
+## 👍🏼 Feedback
 
 Feedback and suggestions for improvement are welcome! If you have any ideas or suggestions, please feel free to open an issue or reach out to me directly.
 
 
-## 🚀Deployment
-
--
 ## 👩🏼‍🚀 About Me
 
 With over 6 years of experience as a highly accomplished Senior PHP Developer, I have demonstrated expertise in Laravel, CodeIgniter, AWS (EC2, S3), JavaScript, and AngularJS. I have consistently excelled in architecting and delivering high-performance solutions. Additionally, I bring valuable experience in API-First development, MySQL, Graph DB, and Neo4j. During my studies, I worked with OpenAI, Vertex AI, Vision AI, and BigQuery, learning AI technologies and tools. I am adept at staying abreast of industry best practices and emerging technologies, driving innovation in every project. I also completed AI and ML projects as a Google Innovator.
 
 
 ## 🔗 Links
-https://github.com/dineshabey
 
-Dataset :- https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset
+GitHub :- https://github.com/dineshabey
+
+Linkedin :- https://www.linkedin.com/in/dinesh-abeysinghe-bb773293/
+
+Hugging Face:- https://huggingface.co/dineshabeysinghe
+
+
 
 ## 🛠 Skills
 
@@ -112,9 +110,9 @@ Boostrap,MUI
 
 
 
-##🚀Running the Real-Time Movie Recommendation System 
+## 🚀 Running the Real-Time Movie Recommendation System 
 
-To run the real-time movie recommendation system, follow these steps:
+- To run the real-time movie recommendation system, follow these steps:
 
 #Download Dataset:
 
@@ -150,6 +148,8 @@ Feel free to modify the code in the notebook to experiment with different models
 
 The notebook includes explanations and comments to help you understand each step of the process.
 By following these steps, you can run the real-time movie recommendation system using the MovieLens 20M dataset and evaluate its performance in a Jupyter Notebook environment.
+
+
 
 
 
